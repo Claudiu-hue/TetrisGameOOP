@@ -25,5 +25,10 @@ namespace TetrisGame
             gameGrid.MoveRowDown(0, 1);
 
         }
+
+        private void Window_KeyDown()
+        {
+
+        }
     }
 }
