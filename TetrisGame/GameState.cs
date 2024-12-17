@@ -49,9 +49,19 @@ namespace TetrisGame
 
         public void RotateBlockCW()
         {
-            CurrentBlock.RotateCCW();
+            CurrentBlock.RotateCW();
 
             if(!BlockFits())
+            {
+                CurrentBlock.RotateCW();
+            }
+        }
+
+        public void RotateBlockCCW()
+        {
+            CurrentBlock.RotateCCW();
+
+            if (!BlockFits())
             {
                 CurrentBlock.RotateCCW();
             }

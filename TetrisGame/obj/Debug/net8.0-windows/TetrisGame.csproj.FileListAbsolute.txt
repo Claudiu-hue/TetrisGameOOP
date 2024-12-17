@@ -13,6 +13,7 @@ C:\Users\pc\source\repos\TetrisGame\TetrisGame\obj\Debug\net8.0-windows\TetrisGa
 C:\Users\pc\source\repos\TetrisGame\TetrisGame\obj\Debug\net8.0-windows\TetrisGame.AssemblyInfoInputs.cache
 C:\Users\pc\source\repos\TetrisGame\TetrisGame\obj\Debug\net8.0-windows\TetrisGame.AssemblyInfo.cs
 C:\Users\pc\source\repos\TetrisGame\TetrisGame\obj\Debug\net8.0-windows\TetrisGame.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\TetrisGame\TetrisGame\obj\Debug\net8.0-windows\TetrisGame.sourcelink.json
 C:\Users\pc\source\repos\TetrisGame\TetrisGame\obj\Debug\net8.0-windows\TetrisGame.dll
 C:\Users\pc\source\repos\TetrisGame\TetrisGame\obj\Debug\net8.0-windows\refint\TetrisGame.dll
 C:\Users\pc\source\repos\TetrisGame\TetrisGame\obj\Debug\net8.0-windows\TetrisGame.pdb
